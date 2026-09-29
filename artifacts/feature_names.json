@@ -1,0 +1,20 @@
+{
+  "final_features": [
+    "size",
+    "building_age",
+    "tom",
+    "city_te",
+    "room_count_te",
+    "district_grouped_te",
+    "sub_type_New",
+    "sub_type_Secondary",
+    "heating_type_Central",
+    "heating_type_Individual",
+    "heating_type_None",
+    "price_currency_RUB",
+    "price_currency_USD"
+  ],
+  "n_features": 13,
+  "target": "log_price",
+  "target_inverse": "np.expm1"
+}

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные (большие CSV)
+data/*.csv
+real_estate_data.csv
+data.zip
+
+# Кэш моделей
+tuning_cache/
+
+# Служебное
+app.txt
